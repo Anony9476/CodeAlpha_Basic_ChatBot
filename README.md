@@ -56,6 +56,6 @@ This project is open-source and available under the MIT License.
 Feel free to fork the repository and submit pull requests to improve the chatbot!
 
 ## Author
-Author - Python Developer
+Abdul Haseeb - Python Developer
 
 
